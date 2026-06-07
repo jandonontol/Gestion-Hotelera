@@ -1,4 +1,4 @@
-# HotelPro - Avance de Práctica de Campo
+# Gestion Hotelera - Avance de Práctica de Campo
 
 Proyecto Java desarrollado en Eclipse para evidenciar:
 
