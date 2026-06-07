@@ -1,0 +1,3 @@
+Texto para el informe:
+
+Asimismo, se considera que en futuras etapas del proyecto el sistema será integrado con una base de datos MySQL para permitir el almacenamiento permanente de habitaciones, clientes, reservas y movimientos de caja. Inicialmente, la aplicación utiliza colecciones ArrayList para evidenciar el manejo de objetos en memoria. Posteriormente, se prevé la implementación de acceso a datos mediante JDBC para lograr persistencia de la información.
