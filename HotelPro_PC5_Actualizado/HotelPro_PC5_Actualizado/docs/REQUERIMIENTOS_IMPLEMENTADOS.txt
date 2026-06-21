@@ -1,0 +1,22 @@
+REQUERIMIENTOS IMPLEMENTADOS EN EL SOFTWARE
+
+RF01 Registrar habitaciones.
+RF02 Consultar habitaciones.
+RF04 Cambiar estado de habitaciones.
+RF05 Registrar clientes.
+RF06 Consultar clientes.
+RF07 Modificar clientes.
+RF08 Eliminar clientes.
+RF09 Buscar clientes por DNI.
+RF11 Registrar reservas.
+RF12 Consultar reservas.
+RF14 Cancelar reservas.
+RF15 Mostrar habitaciones disponibles.
+RF18 Realizar check-in.
+RF19 Realizar check-out.
+RF20 Calcular costo de hospedaje.
+RF21 Registrar ingresos.
+RF22 Registrar egresos.
+RF23 Consultar movimientos de caja.
+RF24 Calcular saldo de caja.
+RF30 Buscar habitaciones por tipo.
